@@ -2,8 +2,8 @@
 https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
 # Commands
-code --list-extensions
-code --install-extension
+code --list-extensions  
+code --install-extension  
 
 # Favorite extensions
 code --install-extension donjayamanne.githistory  
